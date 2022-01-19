@@ -1,0 +1,172 @@
+[
+  {
+    "police": [
+      {
+        "name": "Bajirao Singham",
+        "contact": 9826463361,
+        "username": "singham",
+        "password": "singham@123",
+        "email": "prathams220399@gmail.com"
+      },
+      {
+        "name": "Police One",
+        "contact": 9826463362,
+        "username": "policenew1",
+        "password": "police@123",
+        "email": "police1@gmail.com"
+      },
+      {
+        "name": "Police two",
+        "contact": 9826463363,
+        "username": "police2",
+        "password": "police@123",
+        "email": "police2@gmail.com"
+      },
+      {
+        "name": "Police three",
+        "contact": 9826463364,
+        "username": "police3",
+        "password": "police@123",
+        "email": "police3@gmail.com"
+      },
+      {
+        "name": "Police four",
+        "contact": 9826463365,
+        "username": "police4",
+        "password": "police@123",
+        "email": "police4@gmail.com"
+      },
+      {
+        "name": "Police five",
+        "contact": 9826463366,
+        "username": "police5",
+        "password": "police@123",
+        "email": "police5@gmail.com"
+      },
+      {
+        "name": "Test",
+        "contact": 1234567891,
+        "username": "vivek180",
+        "password": "vivekrocks",
+        "email": "sharma.viv@northeastern.edu"
+      },
+      {
+        "name": "vivek sharma",
+        "contact": 9102831991,
+        "username": "vivek1",
+        "password": "vivekrocks",
+        "email": "sharma.viv@northeastern.edu"
+      }
+    ],
+    "fireman": [
+      {
+        "name": "John Doe",
+        "contact": 9876543209,
+        "username": "firemen",
+        "password": "fire@123",
+        "email": "rohitchauhancr07@gmail.com"
+      },
+      {
+        "name": "Firemen One",
+        "contact": 9876543211,
+        "username": "firemen1",
+        "password": "fire@123",
+        "email": "firemen1@gmail.com"
+      },
+      {
+        "name": "Firemen two",
+        "contact": 9876543212,
+        "username": "firemen2",
+        "password": "fire@123",
+        "email": "firemen2@gmail.com"
+      },
+      {
+        "name": "Firemen three",
+        "contact": 9876543213,
+        "username": "firemen3",
+        "password": "fire@123",
+        "email": "firemen3@gmail.com"
+      },
+      {
+        "name": "Firemen four",
+        "contact": 9876543214,
+        "username": "firemen4",
+        "password": "fire@123",
+        "email": "firemen4@gmail.com"
+      },
+      {
+        "name": "Firemen five",
+        "contact": 9876543215,
+        "username": "firemennew5",
+        "password": "fire@123",
+        "email": "firemen5@gmail.com"
+      }
+    ],
+    "doctor": [
+      {
+        "name": "Abhishek Kalantri",
+        "hospitalName": "Boston Hospital",
+        "email": "rohitchouhancr07@gmail.com",
+        "username": "doc",
+        "password": "doctor@123",
+        "contact": 8982253353
+      },
+      {
+        "name": "Doctor One",
+        "hospitalName": "Mission hill Hospital",
+        "email": "doctor1@gmail.com",
+        "username": "doc1",
+        "password": "doctor@123",
+        "contact": 8982253355
+      },
+      {
+        "name": "Doctor two",
+        "hospitalName": "Mission hill Hospital",
+        "email": "doctor2@gmail.com",
+        "username": "doc2",
+        "password": "doctor@123",
+        "contact": 8982253356
+      },
+      {
+        "name": "Doctor three",
+        "hospitalName": "Mission hill Hospital",
+        "email": "doctor3@gmail.com",
+        "username": "doc3",
+        "password": "doctor@123",
+        "contact": 8982253357
+      },
+      {
+        "name": "Doctor four",
+        "hospitalName": "Mission hill Hospital",
+        "email": "doctor4@gmail.com",
+        "username": "doc4",
+        "password": "doctor@123",
+        "contact": 8982253358
+      },
+      {
+        "name": "Doctor five",
+        "hospitalName": "Mission hill Hospital",
+        "email": "doctor5@gmail.com",
+        "username": "doc5",
+        "password": "doctor@123",
+        "contact": 8982253359
+      },
+      {
+        "name": "Doctor six",
+        "hospitalName": "Mission hill Hospital",
+        "email": "doctor6@gmail.com",
+        "username": "doc6",
+        "password": "doctor@123",
+        "contact": 8982253360
+      },
+      {
+        "name": "Doctor seven",
+        "hospitalName": "Mission hill Hospital",
+        "email": "doctor7@gmail.com",
+        "username": "doc7",
+        "password": "doctor@123",
+        "contact": 8982253361
+      }
+    ]
+  }
+]

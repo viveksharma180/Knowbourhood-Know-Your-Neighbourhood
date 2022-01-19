@@ -1,0 +1,18 @@
+[
+  {
+    "name": "John Obama",
+    "dob": "Dec 27, 1998, 12:00:00 AM",
+    "contact": 1901010293,
+    "username": "obama",
+    "password": "obamarocks",
+    "email": "obama@gmail.com"
+  },
+  {
+    "name": "Tony Stark",
+    "dob": "Dec 27, 1999, 12:00:00 AM",
+    "contact": 1221937648,
+    "username": "tony",
+    "password": "tonyrocks",
+    "email": "tony@gmail.com"
+  }
+]

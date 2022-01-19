@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Abhishek Kalantri",
+    "contact": 8982253353,
+    "username": "doc",
+    "password": "doctor@123",
+    "email": "rohitchouhancr07@gmail.com",
+    "hospitalName": "Boston Hospital"
+  },
+  {
+    "name": "Doctor One",
+    "contact": 8982253355,
+    "username": "doc1",
+    "password": "doctor@123",
+    "email": "doctor1@gmail.com",
+    "hospitalName": "Mission hill Hospital"
+  },
+  {
+    "name": "Doctor two",
+    "contact": 8982253356,
+    "username": "doc2",
+    "password": "doctor@123",
+    "email": "doctor2@gmail.com",
+    "hospitalName": "Mission hill Hospital"
+  },
+  {
+    "name": "Doctor three",
+    "contact": 8982253357,
+    "username": "doc3",
+    "password": "doctor@123",
+    "email": "doctor3@gmail.com",
+    "hospitalName": "Mission hill Hospital"
+  },
+  {
+    "name": "Doctor four",
+    "contact": 8982253358,
+    "username": "doc4",
+    "password": "doctor@123",
+    "email": "doctor4@gmail.com",
+    "hospitalName": "Mission hill Hospital"
+  },
+  {
+    "name": "Doctor five",
+    "contact": 8982253359,
+    "username": "doc5",
+    "password": "doctor@123",
+    "email": "doctor5@gmail.com",
+    "hospitalName": "Mission hill Hospital"
+  },
+  {
+    "name": "Doctor six",
+    "contact": 8982253360,
+    "username": "doc6",
+    "password": "doctor@123",
+    "email": "doctor6@gmail.com",
+    "hospitalName": "Mission hill Hospital"
+  },
+  {
+    "name": "Doctor seven",
+    "contact": 8982253361,
+    "username": "doc7",
+    "password": "doctor@123",
+    "email": "doctor7@gmail.com",
+    "hospitalName": "Mission hill Hospital"
+  }
+]

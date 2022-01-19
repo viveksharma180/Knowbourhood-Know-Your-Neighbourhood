@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John Doe",
+    "contact": 9876543209,
+    "username": "firemen",
+    "password": "fire@123",
+    "email": "rohitchauhancr07@gmail.com"
+  },
+  {
+    "name": "Firemen One",
+    "contact": 9876543211,
+    "username": "firemen1",
+    "password": "fire@123",
+    "email": "firemen1@gmail.com"
+  },
+  {
+    "name": "Firemen two",
+    "contact": 9876543212,
+    "username": "firemen2",
+    "password": "fire@123",
+    "email": "firemen2@gmail.com"
+  },
+  {
+    "name": "Firemen three",
+    "contact": 9876543213,
+    "username": "firemen3",
+    "password": "fire@123",
+    "email": "firemen3@gmail.com"
+  },
+  {
+    "name": "Firemen four",
+    "contact": 9876543214,
+    "username": "firemen4",
+    "password": "fire@123",
+    "email": "firemen4@gmail.com"
+  },
+  {
+    "name": "Firemen five",
+    "contact": 9876543215,
+    "username": "firemennew5",
+    "password": "fire@123",
+    "email": "firemen5@gmail.com"
+  }
+]

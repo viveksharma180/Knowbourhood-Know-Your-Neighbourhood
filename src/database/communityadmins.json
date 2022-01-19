@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Mahesh Sahasrabuddhe",
+    "dob": "Dec 27, 1998, 12:00:00 AM",
+    "contact": 9594999364,
+    "communityName": "Roxbury",
+    "username": "mahesh",
+    "password": "maheshrocks",
+    "email": "pratham220399@gmail.com"
+  },
+  {
+    "name": "Anuj Raut",
+    "dob": "Dec 27, 1999, 12:00:00 AM",
+    "contact": 9594999363,
+    "communityName": "Mission Main",
+    "username": "anuj",
+    "password": "anujrocks",
+    "email": "comadmin1@gmail.com"
+  },
+  {
+    "name": "John Doe",
+    "dob": "Jan 27, 1998, 12:00:00 AM",
+    "contact": 9594999365,
+    "communityName": "Mission Hill",
+    "username": "john",
+    "password": "johnrocks",
+    "email": "comadmin2@gmail.com"
+  },
+  {
+    "name": "Ram Verma",
+    "dob": "Feb 27, 1996, 12:00:00 AM",
+    "contact": 9594999366,
+    "communityName": "Back Bay",
+    "username": "ram",
+    "password": "ramrocks",
+    "email": "comadmin3@gmail.com"
+  },
+  {
+    "name": "Shyam Verma",
+    "dob": "Mar 27, 1980, 12:00:00 AM",
+    "contact": 9594999367,
+    "communityName": "Back Bay",
+    "username": "shyam",
+    "password": "shyamrocks",
+    "email": "comadmin4@gmail.com"
+  },
+  {
+    "name": "Dinesh Verma",
+    "dob": "Jun 27, 1980, 12:00:00 AM",
+    "contact": 9594999369,
+    "communityName": "Brighton",
+    "username": "shyam",
+    "password": "shyamrocks",
+    "email": "comadmin6@gmail.com"
+  },
+  {
+    "name": "Sudama Sharma",
+    "dob": "Jul 27, 1980, 12:00:00 AM",
+    "contact": 9594999370,
+    "communityName": "Roxbury",
+    "username": "sudama",
+    "password": "sudamarocks",
+    "email": "comadmin7@gmail.com"
+  },
+  {
+    "name": "Bhavesh Jharkhande",
+    "dob": "Dec 27, 1980, 12:00:00 AM",
+    "contact": 9594999371,
+    "communityName": "Allston",
+    "username": "bhavesh",
+    "password": "bhaveshrocks",
+    "email": "comadmin8@gmail.com"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "resident": {
+      "name": "Final Trial",
+      "dob": "Dec 9, 2021, 12:00:00 AM",
+      "contact": 9897731487,
+      "address": "1575 Tremont Street",
+      "community": "Roxbury",
+      "username": "finalTrial",
+      "password": "ENCRYPTED",
+      "email": "charliepep180@gmail.com"
+    },
+    "help": {
+      "workTitle": "Football",
+      "workDescription": "Need Volunteer to help organize football taurnament",
+      "contact": 9898989810,
+      "date": "Dec 12, 2021, 10:11:18 PM",
+      "community": "Roxbury",
+      "email": "viveksharma180@gmail.com",
+      "paid": true
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Bajirao Singham",
+    "contact": 9826463361,
+    "username": "singham",
+    "password": "singham@123",
+    "email": "prathams220399@gmail.com"
+  },
+  {
+    "name": "Police One",
+    "contact": 9826463362,
+    "username": "policenew1",
+    "password": "police@123",
+    "email": "police1@gmail.com"
+  },
+  {
+    "name": "Police two",
+    "contact": 9826463363,
+    "username": "police2",
+    "password": "police@123",
+    "email": "police2@gmail.com"
+  },
+  {
+    "name": "Police three",
+    "contact": 9826463364,
+    "username": "police3",
+    "password": "police@123",
+    "email": "police3@gmail.com"
+  },
+  {
+    "name": "Police four",
+    "contact": 9826463365,
+    "username": "police4",
+    "password": "police@123",
+    "email": "police4@gmail.com"
+  },
+  {
+    "name": "Police five",
+    "contact": 9826463366,
+    "username": "police5",
+    "password": "police@123",
+    "email": "police5@gmail.com"
+  },
+  {
+    "name": "Test",
+    "contact": 1234567891,
+    "username": "vivek180",
+    "password": "vivekrocks",
+    "email": "sharma.viv@northeastern.edu"
+  },
+  {
+    "name": "vivek sharma",
+    "contact": 9102831991,
+    "username": "vivek1",
+    "password": "vivekrocks",
+    "email": "sharma.viv@northeastern.edu"
+  }
+]

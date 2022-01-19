@@ -1,0 +1,292 @@
+[
+  {
+    "r": [
+      {
+        "name": "Vivek Sharma ",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 9876543210,
+        "address": "1575 Tremont Street, Boston, MA - 02120",
+        "community": "Mission Main",
+        "username": "vivek",
+        "password": "vivekrocks",
+        "email": "sharma.viv@northeastern.edu"
+      },
+      {
+        "name": "Rohit Chouhan",
+        "dob": "Jan 18, 1996, 12:00:00 AM",
+        "contact": 8982253354,
+        "address": "1575 Tremont Street, Boston, MA - 02120",
+        "community": "Roxbury",
+        "username": "rohit",
+        "password": "rohitrocks",
+        "email": "chouhan.ro@northeastern.edu"
+      },
+      {
+        "name": "Prathamesh Sahasrabuddhe",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 8657298290,
+        "address": "123 Boylston Street, Boston, MA - 02120",
+        "community": "Roxbury",
+        "username": "pms22",
+        "password": "lalala",
+        "email": "prathams220399@gmail.com"
+      },
+      {
+        "name": "Vibhi Pulgam",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 9819449365,
+        "address": "1921 Mission Main Boston MA  02120",
+        "community": "Brigton",
+        "username": "vibhi",
+        "password": "vibhirocks",
+        "email": "resident1@gmail.com"
+      },
+      {
+        "name": "Ashutosh Vishwakarma",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 1111111111,
+        "address": "1575 Tremont Street, Boston, MA - 02120",
+        "community": "Brigton",
+        "username": "ashutosh",
+        "password": "ashutoshrocks",
+        "email": "resident2@northeastern.edu"
+      },
+      {
+        "name": "Mayur Borge",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 8691916497,
+        "address": "1575 Tremont Street, Boston, MA - 02120",
+        "community": "Bay Village",
+        "username": "sidbokil",
+        "password": "sidrocks",
+        "email": "resident3@northeastern.edu"
+      },
+      {
+        "name": "Tanvi Hule",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 8691916499,
+        "address": "1575 Tremont Street, Boston, MA - 02120",
+        "community": "Mission Hill",
+        "username": "sidbokil",
+        "password": "sidrocks",
+        "email": "resident4@gmail.com"
+      },
+      {
+        "name": "Gorge Mendes",
+        "dob": "Dec 27, 1991, 12:00:00 AM",
+        "contact": 8691916478,
+        "address": "1575 Tremont Street, Boston, MA - 02120",
+        "community": "Bay Village",
+        "username": "gorge",
+        "password": "gorgerocks",
+        "email": "resident5@northeastern.edu"
+      },
+      {
+        "name": "Janvi lule",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 8691916498,
+        "address": "1575 Tremont Street, Boston, MA - 02120",
+        "community": "Allston",
+        "username": "sidbokil",
+        "password": "sidrocks",
+        "email": "resident6@gmail.com"
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "dob": "Feb 5, 1985, 12:00:00 AM",
+        "contact": 1234512345,
+        "address": "1575, Alphonso Street",
+        "community": "Roxbury",
+        "username": "ronaldo",
+        "password": "ronaldorocks",
+        "email": "ronaldo@abc.com"
+      },
+      {
+        "name": "Final Trial",
+        "dob": "Dec 9, 2021, 12:00:00 AM",
+        "contact": 9897731487,
+        "address": "1575 Tremont Street",
+        "community": "Roxbury",
+        "username": "finalTrial",
+        "password": "trial",
+        "email": "charliepep180@gmail.com"
+      }
+    ],
+    "p": [
+      {
+        "name": "Bajirao Singham",
+        "contact": 9826463361,
+        "username": "singham",
+        "password": "singham@123",
+        "email": "prathams220399@gmail.com"
+      },
+      {
+        "name": "Police One",
+        "contact": 9826463362,
+        "username": "policenew1",
+        "password": "police@123",
+        "email": "police1@gmail.com"
+      },
+      {
+        "name": "Police two",
+        "contact": 9826463363,
+        "username": "police2",
+        "password": "police@123",
+        "email": "police2@gmail.com"
+      },
+      {
+        "name": "Police three",
+        "contact": 9826463364,
+        "username": "police3",
+        "password": "police@123",
+        "email": "police3@gmail.com"
+      },
+      {
+        "name": "Police four",
+        "contact": 9826463365,
+        "username": "police4",
+        "password": "police@123",
+        "email": "police4@gmail.com"
+      },
+      {
+        "name": "Police five",
+        "contact": 9826463366,
+        "username": "police5",
+        "password": "police@123",
+        "email": "police5@gmail.com"
+      },
+      {
+        "name": "Test",
+        "contact": 1234567891,
+        "username": "vivek180",
+        "password": "vivekrocks",
+        "email": "sharma.viv@northeastern.edu"
+      },
+      {
+        "name": "vivek sharma",
+        "contact": 9102831991,
+        "username": "vivek1",
+        "password": "vivekrocks",
+        "email": "sharma.viv@northeastern.edu"
+      }
+    ],
+    "c": [
+      {
+        "name": "Mahesh Sahasrabuddhe",
+        "dob": "Dec 27, 1998, 12:00:00 AM",
+        "contact": 9594999364,
+        "communityName": "Roxbury",
+        "username": "mahesh",
+        "password": "maheshrocks",
+        "email": "pratham220399@gmail.com"
+      },
+      {
+        "name": "Anuj Raut",
+        "dob": "Dec 27, 1999, 12:00:00 AM",
+        "contact": 9594999363,
+        "communityName": "Mission Main",
+        "username": "anuj",
+        "password": "anujrocks",
+        "email": "comadmin1@gmail.com"
+      },
+      {
+        "name": "John Doe",
+        "dob": "Jan 27, 1998, 12:00:00 AM",
+        "contact": 9594999365,
+        "communityName": "Mission Hill",
+        "username": "john",
+        "password": "johnrocks",
+        "email": "comadmin2@gmail.com"
+      },
+      {
+        "name": "Ram Verma",
+        "dob": "Feb 27, 1996, 12:00:00 AM",
+        "contact": 9594999366,
+        "communityName": "Back Bay",
+        "username": "ram",
+        "password": "ramrocks",
+        "email": "comadmin3@gmail.com"
+      },
+      {
+        "name": "Shyam Verma",
+        "dob": "Mar 27, 1980, 12:00:00 AM",
+        "contact": 9594999367,
+        "communityName": "Back Bay",
+        "username": "shyam",
+        "password": "shyamrocks",
+        "email": "comadmin4@gmail.com"
+      },
+      {
+        "name": "Dinesh Verma",
+        "dob": "Jun 27, 1980, 12:00:00 AM",
+        "contact": 9594999369,
+        "communityName": "Brighton",
+        "username": "shyam",
+        "password": "shyamrocks",
+        "email": "comadmin6@gmail.com"
+      },
+      {
+        "name": "Sudama Sharma",
+        "dob": "Jul 27, 1980, 12:00:00 AM",
+        "contact": 9594999370,
+        "communityName": "Roxbury",
+        "username": "sudama",
+        "password": "sudamarocks",
+        "email": "comadmin7@gmail.com"
+      },
+      {
+        "name": "Bhavesh Jharkhande",
+        "dob": "Dec 27, 1980, 12:00:00 AM",
+        "contact": 9594999371,
+        "communityName": "Allston",
+        "username": "bhavesh",
+        "password": "bhaveshrocks",
+        "email": "comadmin8@gmail.com"
+      }
+    ],
+    "f": [
+      {
+        "name": "John Doe",
+        "contact": 9876543209,
+        "username": "firemen",
+        "password": "fire@123",
+        "email": "rohitchauhancr07@gmail.com"
+      },
+      {
+        "name": "Firemen One",
+        "contact": 9876543211,
+        "username": "firemen1",
+        "password": "fire@123",
+        "email": "firemen1@gmail.com"
+      },
+      {
+        "name": "Firemen two",
+        "contact": 9876543212,
+        "username": "firemen2",
+        "password": "fire@123",
+        "email": "firemen2@gmail.com"
+      },
+      {
+        "name": "Firemen three",
+        "contact": 9876543213,
+        "username": "firemen3",
+        "password": "fire@123",
+        "email": "firemen3@gmail.com"
+      },
+      {
+        "name": "Firemen four",
+        "contact": 9876543214,
+        "username": "firemen4",
+        "password": "fire@123",
+        "email": "firemen4@gmail.com"
+      },
+      {
+        "name": "Firemen five",
+        "contact": 9876543215,
+        "username": "firemennew5",
+        "password": "fire@123",
+        "email": "firemen5@gmail.com"
+      }
+    ]
+  }
+]
